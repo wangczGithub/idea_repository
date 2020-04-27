@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/git_idea_test1.iml" filepath="$PROJECT_DIR$/git_idea_test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/idea_java_demo1/idea_java_demo1.iml" filepath="$PROJECT_DIR$/idea_java_demo1/idea_java_demo1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/idea_maven_web1/idea_maven_web1.iml" filepath="$PROJECT_DIR$/idea_maven_web1/idea_maven_web1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_idea_test3.iml" filepath="$PROJECT_DIR$/git_idea_test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_java_demo3/idea_java_demo3.iml" filepath="$PROJECT_DIR$/idea_java_demo3/idea_java_demo3.iml" />
     </modules>
   </component>
 </project>
